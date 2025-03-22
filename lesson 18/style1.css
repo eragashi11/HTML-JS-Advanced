@@ -1,0 +1,21 @@
+.loader{
+    margin: 100px;
+}
+.loader img{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-right: 10px ;
+    animation: bounce 8 infinite alternate;
+ }
+
+
+
+@keyframes bounce{
+    to{
+        width: 250px;
+        height: 250px;
+        transform: translate3d(0,-50px,0);
+    }
+    
+}
