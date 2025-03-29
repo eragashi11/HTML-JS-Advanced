@@ -1,0 +1,23 @@
+.header{
+    padding: 30px;
+    text-align: center;
+    background: rgba(135,80,156,255);
+    color: white;
+   font-size: 10px;
+   display: flex;
+  justify-content: right;
+  justify-content: space-around;
+  
+}
+p{
+    color: white;
+    text-align: center;
+    background-color: rgba(135,80,156,255);
+}
+button{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    display: flex;
+  
+}
